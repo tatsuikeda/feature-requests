@@ -1,0 +1,3 @@
+One of the more time consuming tasks is running scripts or one line regex commands to "harden" posix permissions on wp installs. the way ee install plugins and wp core is great for dev, would like a way to reset them during dev in case I mannually scp or sftp plugins or themes, and a way to harden the whole install for production. 
+
+https://codex.wordpress.org/Hardening_WordPress
